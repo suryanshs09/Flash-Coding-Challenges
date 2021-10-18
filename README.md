@@ -5,7 +5,8 @@ it is a series of Copetitive Coding Contests, created by Turing Club for the stu
 ## Flash Coding Challenge 1
 
 Consists of 3 problems and was conducted on `updating soon`.
-link for the contest: `updating soon`.
+
+> _link for the contest:_ `updating soon`.
 
 ### Challenges
 
