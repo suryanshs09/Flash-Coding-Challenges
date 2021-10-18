@@ -25,7 +25,7 @@ _**Note:** 1 meter = 3.280839895 ft_
 ## Input
 
 - first line of input will contain four integers `L`, `W`, `LB` and `WB` the dimensions of block and a building respectively.(take input in same order)
-- the rest of the lines will contain the height of each building **in terms of number of floors in them**.
+- the rest of the lines will contain the height `h` of each building **in terms of number of floors in them**.
  
 ## Output
 
@@ -37,6 +37,6 @@ _**Hint:** the volume may be a large number, choose the datatype wisely_
 
 - `L` is a _multiple_ of `LB`
 - `W` is a _multiple_ of `WB`
-- 50 &le; LB, WB &le; 150
-- 100 &le; L, W &le; 1650
-- 1 &le; h &le; 100
+- 50 &le; `LB`, `WB` &le; 150
+- 100 &le; `L`, `W` &le; 1650
+- 1 &le; `h` &le; 100
