@@ -15,11 +15,11 @@ _**Note:** there are spaces before each row starts and no spaces after row is co
 
 ## Output
 
- the desired pattern.
+- the desired pattern.
  
 ## Constraints
 
 - 1 &le; `n` &le; 26
 - 1 &le; \| `fillChar` \| &le; 5
 - every character ch ∈ `fillChar` is such that, ch ∉ \{\[a-z\], \[A-Z\] and \[0-9\]\}
-- all patter charachters \(that are not part of fillChar\) ∈ \[a-z\]
+- all pattern charachters \(that are not part of fillChar\) ∈ \[a-z\]
