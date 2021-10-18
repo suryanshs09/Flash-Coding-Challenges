@@ -12,3 +12,4 @@
 # solution and generator codes
 /generator-codes
 *.cpp
+/solutions
