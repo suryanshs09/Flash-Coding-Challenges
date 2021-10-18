@@ -8,3 +8,7 @@
 # vscode files
 *.json
 /.vscode
+
+# solution and generator codes
+/generator-codes
+*.cpp
