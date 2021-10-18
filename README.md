@@ -10,6 +10,6 @@ Consists of 3 problems and was conducted on `updating soon`.
 
 ### Challenges
 
-- [Matrix Reloaded](flashCodingChallenge1\challenges\matrix-reloaded.md)
-- [Ted the Builder](flashCodingChallenge1\challenges\ted-the-builder.md)
-- [p-a-t-t-e-r-n](flashCodingChallenge1\challenges\p-a-t-t-e-r-n.md)
+- [Matrix Reloaded](flashCodingChallenge1/challenges/matrix-reloaded.md)
+- [Ted the Builder](flashCodingChallenge1/challenges/ted-the-builder.md)
+- [p-a-t-t-e-r-n](flashCodingChallenge1/challenges/p-a-t-t-e-r-n.md)
