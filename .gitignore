@@ -10,6 +10,6 @@
 /.vscode
 
 # solution and generator codes
-/generator-codes
+/flashCodingChallenge1/generator-codes
 *.cpp
-/solutions
+/flashCodingChallenge1/solutions
