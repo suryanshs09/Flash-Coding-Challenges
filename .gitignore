@@ -1,0 +1,10 @@
+# executables
+*.exe
+
+# IO files
+*.txt
+/testcases
+
+# vscode files
+*.json
+/.vscode
