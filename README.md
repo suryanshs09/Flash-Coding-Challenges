@@ -4,9 +4,9 @@ it is a series of Copetitive Coding Contests, created by Turing Club for the stu
 
 ## Flash Coding Challenge 1
 
-Consists of 3 problems and was conducted on `updating soon`.
+Consists of 3 problems and was conducted on `18/12/2021`.
 
-> _link for the contest:_ `updating soon`.
+> _link for the contest:_ `www.hackerrank.com/flash-coding-challenge-1`.
 
 ### Challenges
 
