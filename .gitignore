@@ -13,7 +13,8 @@
 /flashCodingChallenge1/generator-codes
 *.cpp
 /flashCodingChallenge1/solutions
-/flashCodingChallenge2
+/flashCodingChallenge2/generator-codes
+/flashCodingChallenge2/solutions
 
 # zip files
 *.zip
